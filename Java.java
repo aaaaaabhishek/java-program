@@ -1,5 +1,5 @@
 public class Java {
-    public static void main(String args[]){
+    public void t(){
         System.out.println("Hello");
         System.out.println("This is Four line is exicuted");
     }
